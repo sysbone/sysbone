@@ -19,7 +19,8 @@ Je conçois des systèmes **sécurisés**, **automatisés** et **intelligents** 
 
 ### 📫 Me contacter :
 
-- [LinkedIn](https://www.linkedin.com/in/franck-friard/)
+- [LinkedIn](https://www.linkedin.com/in/franck-friard-527816218/)
+
 - [Email](mailto:friard.franck@gmail.com)
 
 ---
