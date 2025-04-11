@@ -24,6 +24,5 @@ Je conçois des systèmes **sécurisés**, **automatisés** et **intelligents** 
 - [Email](mailto:franck.friard@backboneagency.tech)
 
 
----
 
-💡 Ce profil est en évolution ! D’autres outils, templates et automatisations seront partagés ici prochainement.
+
