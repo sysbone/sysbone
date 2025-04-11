@@ -21,7 +21,8 @@ Je conçois des systèmes **sécurisés**, **automatisés** et **intelligents** 
 
 - [LinkedIn](https://www.linkedin.com/in/franck-friard-527816218/)
 
-- [Email](mailto:friard.franck@gmail.com)
+- [Email](mailto:franck.friard@backboneagency.tech)
+
 
 ---
 
