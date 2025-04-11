@@ -1,16 +1,26 @@
-## Hi there 👋
+<img src="./banner.png" alt="bannière" />
 
-<!--
-**sysbone/sysbone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Bonjour, je suis Franck
 
-Here are some ideas to get you started:
+🔐 Administrateur IT | 🤖 Automatisation IA & No-Code | 📊 Reporting Automatisé  
+Je conçois des systèmes **sécurisés**, **automatisés** et **intelligents** pour améliorer la productivité et la fiabilité des entreprises.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Ce sur quoi je travaille actuellement :
+
+- 🔁 Automatisation de l'infrastructure (sauvegardes, supervision, scripts)
+- 🤖 Déploiement de bots IA & workflows intelligents avec N8N, Python et ChatGPT
+- 📊 Génération de rapports automatisés (HTML + envoi email)
+- 🧩 Projets en cours : assistants IA pour helpdesk, alerting et supervision
+
+---
+
+### 📫 Me contacter :
+
+- [LinkedIn](https://www.linkedin.com/in/franck-friard/)
+- [Email](mailto:friard.franck@gmail.com)
+
+---
+
+💡 Ce profil est en évolution ! D’autres outils, templates et automatisations seront partagés ici prochainement.
